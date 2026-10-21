@@ -13,3 +13,10 @@ classify handwritten digits (0–9) from the MNIST dataset.
   and regularisation
 - Compare results against a framework-based model (e.g. PyTorch)
 
+## Setting UP 
+- Place holder
+
+## Results
+- Place holder
+
+## Conclusion 
